@@ -3,8 +3,10 @@
 
 @font-face {
   font-family: "Integral";
-  src: url("/fonts/Fontspring-DEMO-integralcf-demiboldoblique.otf")
+  src: url("fonts/Fontspring-DEMO-integralcf-demiboldoblique.otf")
     format("opentype");
+  font-weight: normal;
+  font-style: normal;
 }
 
 * {
@@ -20,7 +22,7 @@ html {
 
 body {
   background-color: #f1f1f1;
-  font-family: "Outfit", sans-serif;
+  font-family: "Integral", sans-serif;
   margin: 0;
   padding: 0;
   color: #101010;
