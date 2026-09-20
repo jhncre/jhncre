@@ -3,10 +3,11 @@
 
 @font-face {
   font-family: "Integral";
-  src: url("Fontspring-DEMO-integralcf-demiboldoblique.otf")
+  src: url("./Fontspring-DEMO-integralcf-demiboldoblique.otf")
     format("opentype");
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 * {
